@@ -5,6 +5,8 @@
 - 📧 Email: luizfilipecarv@gmail.com
 - 😄 Pronomes: Ele/Dele
 
+#
+
 <div align="left">
   <a href="https://github.com/filipecarv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=filipecarv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -30,5 +32,4 @@
   <img align="center" alt="Filipe-MySql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Filipe-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
   <img align="center" alt="Filipe-JS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          
 </div>
