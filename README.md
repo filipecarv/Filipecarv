@@ -9,8 +9,6 @@
 - 📖 Estudando Linguagens de Programação!
   
 - 📧 E-mail: luizfilipecarv@gmail.com
-  
-- 😄 Pronomes: Ele/Dele
 
 #
 
