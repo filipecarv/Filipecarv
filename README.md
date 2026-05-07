@@ -38,7 +38,7 @@ Outra área que tenho vontade de entar e na de cibersegurança. E uma área que 
 <a href="https://www.instagram.com/_lipexx.zn" target="_blank"><img src="https://img.shields.io/badge/Instagram-F50087?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/filipe-carvalho-pereira" target="_blank"><img src="https://img.shields.io/badge/linkedin-0055FF?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
 
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500" height="210"/><br>
 
 _Disposto a participar de projetos de criação de jogos ou também a projetos envolvendo cibersegurança!_
-
 </div>
