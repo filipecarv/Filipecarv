@@ -26,8 +26,8 @@ Outra área que tenho vontade de entar e na de cibersegurança. E uma área que 
 ## 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haell39&theme=dark" height="170" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haell39&theme=dark" height="170" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipecarv&theme=dark" height="170" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filipecarv&theme=dark" height="170" alt="Top Langs"/>
 </div>
 
 ## 🌐 Redes Sociais:
